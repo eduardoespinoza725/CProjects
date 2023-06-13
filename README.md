@@ -1,2 +1,3 @@
 # CProjects
-Some of my work for assignments in COP4610
+Some of my code for assignments in COP4610.
+These projects are for Qemu.
